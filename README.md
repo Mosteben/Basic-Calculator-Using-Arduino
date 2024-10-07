@@ -11,7 +11,8 @@ This project demonstrates a simple calculator built using an Arduino microcontro
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit_diagram.png)  <!-- Replace with the actual circuit diagram image -->
+![Circuit Diagram]![Uploading Simulation-of-Arduino-Calculator.jpg…]()
+
 
 ## Libraries Used
 

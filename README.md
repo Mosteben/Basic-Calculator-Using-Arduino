@@ -61,8 +61,7 @@ This basic calculator demonstrates the use of Arduino for handling user input an
 ## Future Improvements
 
 - Implement error handling for division by zero.
-- Add support for more complex mathematical operations (e.g., square root, power).
-- Use a more advanced display or user interface for enhanced interaction.
+
 
 ## License
 

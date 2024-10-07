@@ -9,9 +9,6 @@ This project demonstrates a simple calculator built using an Arduino microcontro
 - **16x2 LCD Display**: To display the input and output results.
 - **Breadboard and Jumper Wires**: For connecting components.
 
-## Circuit Diagram
-
-![Circuit Diagram]![Uploading Simulation-of-Arduino-Calculator.jpg…]()
 
 
 ## Libraries Used
